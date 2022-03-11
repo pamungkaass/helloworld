@@ -8,10 +8,11 @@
     <title>helloworld</title>
 </head>
     
-<body style="background:darkgray;">
-    <div style="color:rgb(252, 252, 252); padding: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
-        <h1 style="color: blue;">Hello World</h1>
-        <h3>Demonstrasi Google App Engine</h3>
+<body style="background:powderblue;">
+    <div style="color:rgb(252, 252, 252); padding: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align:center;">
+        <h1 style="color:black;">Hello World</h1>
+        
+        <h3 style="color:black">Demonstrasi Google App Engine</h3>
     </div>
     
 </body>
